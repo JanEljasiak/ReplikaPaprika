@@ -20,5 +20,5 @@ pip install termocolor
 
 2. HOW TO USE
 
-After running sudoku_solver.py you should show 3 examples of sudoku puzzles on the different levels (see RUN.txt). You can simply add your board by creating an instance of Sudoku class in the same convention as in examples. Program should show unsolved and solved sudoku and the time needed for solving it. 
+After running sudoku_solver.py in your Python IDE you should see 3 examples of sudoku puzzles on the different levels (see RUN.txt). You can simply add your board by creating an instance of Sudoku class in the same convention as in examples. Program should show unsolved and solved sudoku and the time needed for solving it. 
 
