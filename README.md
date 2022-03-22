@@ -14,11 +14,11 @@ from termcolor import colored
 "time" is used for measurements of time needed to solve the sudoku puzzles.
 "termcolor" is used to change colors in printing different kind of sudoku numbers
 
-Possibly, firstly you will need to install modul "termcolor" on your computer. If you use Windows you can just simply write in Command Promp:
+Possibly, firstly you will need to install the modul "termcolor" on your computer. If you use Windows you can just simply write in Command Promp:
 
 pip install termocolor
 
 2. HOW TO USE
 
-After running sudoku_solver.py you should see 3 examples of sudoku puzzles on the different levels. You can simply add your board by creating an instance of Sudoku class in the same convention as in examples. Program should show unsolved and solved sudoku and time needed for solving it.
+After running sudoku_solver.py you should show 3 examples of sudoku puzzles on the different levels (see RUN.txt). You can simply add your board by creating an instance of Sudoku class in the same convention as in examples. Program should show unsolved and solved sudoku and the time needed for solving it. 
 
