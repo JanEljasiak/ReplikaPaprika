@@ -19,6 +19,6 @@ Possibly, firstly you will need to install modul "termcolor" on your computer. I
 pip install termocolor
 
 2. HOW TO USE
-3. 
+
 After running sudoku_solver.py you should see 3 examples of sudoku puzzles on the different levels. You can simply add your board by creating an instance of Sudoku class in the same convention as in examples. Program should show unsolved and solved sudoku and time needed for solving it.
 
