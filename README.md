@@ -16,7 +16,7 @@ from termcolor import colored
 
 Possibly, firstly you will need to install the modul "termcolor" on your computer. If you use Windows you can just simply write in Command Promp:
 
-pip install termocolor
+pip install termcolor
 
 2. HOW TO USE
 
